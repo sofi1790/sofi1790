@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sofi1790
-- 👀 I’m interested in learning to code with Python
+- 👀 I’m interested in AI
 
 
 <!---
