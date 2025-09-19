@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sofi1790
-- 👀 I’m interested in AI
+- 👋 Hi, I’m @sofi
+- 👀 I’m interested in Machine Learning and AI 
 
 
 <!---
